@@ -12,5 +12,5 @@ This repo is my **accountability tracker**, my **learning journal**, and a place
 
 ---
 
-## 🗂 Repository Structure
+
 
