@@ -171,6 +171,7 @@ void EuclideanAlgorithm()
         cout << a;
     }
 }
+
 int main()
 {
     EuclideanAlgorithm();
